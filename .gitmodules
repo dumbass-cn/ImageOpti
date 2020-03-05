@@ -1,0 +1,9 @@
+[submodule "modules/zopfli"]
+	path = modules/zopfli
+	url = git@github.com:google/zopfli.git
+[submodule "modules/libimagequant"]
+	path = modules/libimagequant
+	url = https://github.com/ImageOptim/libimagequant.git
+[submodule "modules/pngquant"]
+	path = modules/pngquant
+	url = https://github.com/kornelski/pngquant
